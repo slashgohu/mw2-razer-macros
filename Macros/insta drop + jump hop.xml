@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>insta drop + jump hop</Name>
+  <Guid>2a6611a9-6cae-4dba-8bbe-c9efb2262198</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>1</Type>
+      <KeyEvent>
+        <Makecode>17</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>13</Delay>
+      <KeyEvent>
+        <Makecode>29</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>100</Delay>
+      <KeyEvent>
+        <Makecode>29</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>300</Delay>
+      <KeyEvent />
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>13</Delay>
+      <KeyEvent>
+        <Makecode>57</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>40</Delay>
+      <KeyEvent>
+        <Makecode>57</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>13</Delay>
+      <KeyEvent>
+        <Makecode>57</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>40</Delay>
+      <KeyEvent>
+        <Makecode>57</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+  </MacroEvents>
+  <IsFolder>false</IsFolder>
+  <FolderGuid>d1627c56-3a16-4fe0-a275-7b54a4a455d3</FolderGuid>
+</Macro>
