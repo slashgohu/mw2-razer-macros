@@ -10,9 +10,10 @@ Making my personal macros for COD MW II public, hope you enjoy then =)
 - Instant dropshot (break controller AA)
 - Insta dropshot + JumpHop combo (Advanced movement getting discovered now)
 
-```diff
+
 ## Installation
 
+```diff
 -Assuming you already have synapse 3 installed, follow this path:
 
 -Macro > Arrow Down Button > Open desired macro arquive.
